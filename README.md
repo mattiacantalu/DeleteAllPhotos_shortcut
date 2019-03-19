@@ -1,0 +1,1 @@
+# Delete_all_photos_shortcut
